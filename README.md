@@ -1,2 +1,2 @@
 # News_App
-news app created by API
+news app created by calling news API
