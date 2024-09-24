@@ -1,0 +1,1 @@
+I  built a news web app using HTML, CSS, and JavaScript that fetches and displays real-time news articles from an external source through an API. The app has a user-friendly design, allowing users to easily browse and read articles with features like category filtering and search.
